@@ -11,7 +11,7 @@ hbs.registerHelper('anio', function() {
 process.env
 app.get('/', function (req, res) {
     res.render('index',{
-        nombre:'david'
+        nombre:'gamaja'
     });
 
 })
